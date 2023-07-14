@@ -1,0 +1,15 @@
+.parent {
+    height: 8vh;
+
+    /* add solution here */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 25%;
+}
+
+.child {
+    background-color: darkolivegreen;
+    color: white;
+    padding: 1rem;
+}
